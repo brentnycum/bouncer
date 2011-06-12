@@ -14,7 +14,7 @@ Options
 
 `numeric` - Allows numeric characters.
 
-`maxlength' - Max length of the input (useful for textareas).
+`maxlength` - Max length of the input (useful for textareas).
 
 `allow` - Characters to allow, if not using alpha / numeric options or adding in additional characters.
 
